@@ -4,7 +4,7 @@ Laravel CRUD Generator
 ## Installation
 
 1. Put these files into laravel directory same as github hierarchy.
-2. Add service provide on **/config/app.php** file.
+2. Add service provider into **/config/app.php** file.
   ```php
   'providers' => [
 	...
