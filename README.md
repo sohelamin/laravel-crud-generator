@@ -39,7 +39,7 @@ php artisan crud:model Name --fillable="['name', 'email', 'message']"
 For migration generator: 
 
 ```
-php artisan crud:migration migration-name --fields="name:string, email:string, phone:integer, message:text"
+php artisan crud:migration migration-name --schema="name:string, email:string, phone:integer, message:text"
 ```
 
 For view generator: 
