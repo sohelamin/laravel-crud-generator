@@ -12,7 +12,7 @@ Laravel CRUD Generator
 	'App\Providers\AppzcoderCrudGeneratorServiceProvider',
 	```
 
-3. Run command **composer du" and **composer update**
+3. Run command **composer du** and **composer update**
 
 ## Commands
 
