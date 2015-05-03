@@ -30,12 +30,6 @@ For controller generator:
 php artisan crud:controller NameController --crud-name="Name"
 ```
 
-For controller generator: 
-
-```
-php artisan crud:controller NameController --crud-name="Name"
-```
-
 For model generator: 
 
 ```
