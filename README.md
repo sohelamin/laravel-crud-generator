@@ -22,7 +22,9 @@ Laravel CRUD Generator
 php artisan crud:generate crud-name --fields="name:string, email:string, phone:integer, message:text"
 ```
 
-#### Others individual command:
+-----------
+
+#### Others individual command (optional):
 
 For controller generator: 
 
